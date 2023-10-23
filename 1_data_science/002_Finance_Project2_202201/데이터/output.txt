@@ -1,0 +1,6 @@
+[{"varName": "tweetCriteria", "varType": "TweetCriteria", "varSize": "48", "varShape": "", "varContent": "<GetOldTweets3.manager.TweetCriteria.TweetCriteria object at 0x00000171078A4940>"}]
+[{"varName": "tweetCriteria", "varType": "TweetCriteria", "varSize": "48", "varShape": "", "varContent": "<GetOldTweets3.manager.TweetCriteria.TweetCriteria object at 0x00000171078A4940>"}]
+[{"varName": "tweetCriteria", "varType": "TweetCriteria", "varSize": "48", "varShape": "", "varContent": "<GetOldTweets3.manager.TweetCriteria.TweetCriteria object at 0x00000171078A4940>"}]
+[{"varName": "tweetCriteria", "varType": "TweetCriteria", "varSize": "48", "varShape": "", "varContent": "<GetOldTweets3.manager.TweetCriteria.TweetCriteria object at 0x00000171078A4940>"}]
+[{"varName": "tweetCriteria", "varType": "TweetCriteria", "varSize": "48", "varShape": "", "varContent": "<GetOldTweets3.manager.TweetCriteria.TweetCriteria object at 0x00000171078A4940>"}]
+[{"varName": "tweetCriteria", "varType": "TweetCriteria", "varSize": "48", "varShape": "", "varContent": "<GetOldTweets3.manager.TweetCriteria.TweetCriteria object at 0x00000171078A4940>"}]
