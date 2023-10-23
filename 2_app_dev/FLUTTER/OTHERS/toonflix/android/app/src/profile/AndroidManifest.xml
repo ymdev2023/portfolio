@@ -6,3 +6,11 @@
     -->
     <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
+
+<queries>
+  <!-- If your app checks for https support -->
+  <intent>
+    <action android:name="android.intent.action.VIEW" />
+    <data android:scheme="https" />
+  </intent>
+</queries>
