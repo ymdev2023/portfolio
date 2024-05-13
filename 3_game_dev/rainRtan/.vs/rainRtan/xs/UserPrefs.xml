@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9BD2C837-2F94-1E36-A93E-9D64A5505F28}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7dcaf5ba-c302-4930-9065-b82ef35c1839" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/rain.cs">
+    <Files>
+      <File FileName="Assets/Scripts/rtan.cs" Line="22" Column="10" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="63" Column="20" />
+      <File FileName="Assets/Scripts/panel.cs" Line="21" Column="31" />
+      <File FileName="Assets/Scripts/rain.cs" Line="36" Column="110" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rainRtan" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

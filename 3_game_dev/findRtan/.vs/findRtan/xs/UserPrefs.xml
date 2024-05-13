@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{92705908-2623-A158-84B4-B4AA3CCCB389}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/gameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/gameManager.cs" Line="39" Column="35" />
+      <File FileName="Assets/Scripts/card.cs" />
+      <File FileName="Assets/Scripts/endText.cs" />
+      <File FileName="Assets/Scripts/startBtn.cs" />
+      <File FileName="Assets/Scripts/audioManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="63a8e1b4-f845-428d-b936-52016372a0b0" />
+</Properties>
